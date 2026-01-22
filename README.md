@@ -1,2 +1,2 @@
-# ultimate-tic-tac-toe
-An advanced, strategic version of the classic Tic-Tac-Toe game. Unlike the standard version.
+An advanced, strategic version of the classic Tic-Tac-Toe game. Unlike the standard version, This isn't just one game—it's nine games happening simultaneously! The board consists of a 3x3 grid of large squares. Each large square contains a 3x3 grid of small squares. To win the game, a player must win three large squares in a row. Unique Game Rules: Global vs. Local: Winning a small 3x3 grid places your mark (X or O) on the corresponding large square. The "Redirect" Mechanic: The specific small square you pick determines which large square your opponent must play in next. Strategic Blocking: If a player is sent to a large square that is already won or full, they may be granted a "free move" to any open square on the entire board.
+![Uploading image.png…]()
